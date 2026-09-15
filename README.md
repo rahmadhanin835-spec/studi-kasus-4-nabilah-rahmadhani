@@ -3,7 +3,9 @@
 # kode program
 <img width="521" height="392" alt="Screenshot 2026-09-15 194247" src="https://github.com/user-attachments/assets/18d6ca70-2f0f-4951-9429-e1b3a4c7884e" />
 
-<img width="636" height="173" alt="Screenshot 2026-09-15 195932" src="https://github.com/user-attachments/assets/a6819703-20c9-40e3-a522-b33efd6e0ebe" />
+<img width="513" height="294" alt="image" src="https://github.com/user-attachments/assets/3e8476c9-648a-4d5e-a5a2-b97ffa22acd8" />
+
+
 
 1. Dictionary buku :
 Digunakan untuk menyimpan data buku dalam bentuk pasangan key dan value, yaitu judul, penulis, dan tahun terbit.
